@@ -38,4 +38,4 @@ author_profile: true
   * Adverse Long-Term Survival and Primary Graft Dysfunction in Medicare and Medicaid Patients undergoing Heart Transplant
   * The Risk of Chronic Lung Allograft Dysfunction in Patients with Diabetes Mellitus undergoing Lung Transplantation
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Predictors of [redacted] in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion. Manuscript in progress. Manuscript draft complete, awaiting attending feedback.
-* Semelsberger S, Chaudry K, **Bao BJ**, ... Carmouche J. Preoperative [redacted] and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Manuscript draft complete, awaiting co-author and feedback.
+* Semelsberger S, Chaudry K, **Bao BJ**, ... Carmouche J. Preoperative [redacted] and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Manuscript draft complete, awaiting co-author feedback before attending review.
