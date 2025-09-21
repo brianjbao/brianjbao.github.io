@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications / Published Abstracts
 
-* **Bao BJ**, Kwon YIC, ..., Hashmi ZA. [National Trends and Outcomes of Combined Lung–Liver Transplantation: An Analysis of the UNOS Registry](https://brianjbao.github.io/files/MANUSCRIPT_250222_Bao_Hashmi_CLLT.pdf). *Lung*. doi:[10.1007/s00408-025-00811-9](https://doi.org/10.1007/s00408-025-00811-9)
+* **Bao BJ**, Kwon YIC, ..., Hashmi ZA. National Trends and Outcomes of Combined Lung–Liver Transplantation: An Analysis of the UNOS Registry. *Lung*. doi:[10.1007/s00408-025-00811-9](https://doi.org/10.1007/s00408-025-00811-9)
 * Kwon YIC, **Bao BJ**, ..., Hashmi Z. The Impact of Preoperative Amiodarone on Heart Transplant Survival and Graft Dysfunction. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.180](https://doi.org/10.1016/j.healun.2025.02.180)
 * Kwon YIC, **Bao BJ**, ..., Hashmi Z. Long-Term Utilization and Outcomes of COVID-19 Positive Donors for Heart Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1023](https://doi.org/10.1016/j.healun.2025.02.1023)
 * Kwon YIC, Wright K, Keller M, **Bao BJ**, …, Hashmi Z. An Update on the Utilization and Outcomes of Hypoxemic Donors in Lung Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1115](https://doi.org/10.1016/j.healun.2025.02.1115)
