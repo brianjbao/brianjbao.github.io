@@ -32,10 +32,11 @@ author_profile: true
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript draft complete, awaiting co-author and attending feedback.
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
 * Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Submitted as abstract to 2026 STS Annual Meeting; manuscript in progress.
-* Writing and overseeing 4 additional manuscripts that have been previously accepted or are under consideration as posters or presentations at ISHLT and STSA conferences. 
+* Goheer H, ..., **Bao BJ**, ..., Carmouche J. Predictors of [redacted] in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion. Manuscript draft complete, awaiting attending feedback.
+* Semelsberger S, Chaudry K, **Bao BJ**, ... Carmouche J. Preoperative [redacted] and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Manuscript draft complete, awaiting co-author feedback before attending review.
+* Contributing to 4 additional manuscripts that have been previously accepted or are under consideration as posters or presentations at ISHLT and STSA conferences. 
   * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
   * Outcomes and Utilization of Extended Criteria Donors in Lung Transplant after Modification of the LAS
   * Adverse Long-Term Survival and Primary Graft Dysfunction in Medicare and Medicaid Patients undergoing Heart Transplant
   * The Risk of Chronic Lung Allograft Dysfunction in Patients with Diabetes Mellitus undergoing Lung Transplantation
-* Goheer H, ..., **Bao BJ**, ..., Carmouche J. Predictors of [redacted] in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion. Manuscript draft complete, awaiting attending feedback.
-* Semelsberger S, Chaudry K, **Bao BJ**, ... Carmouche J. Preoperative [redacted] and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Manuscript draft complete, awaiting co-author feedback before attending review.
+
