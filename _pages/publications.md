@@ -37,6 +37,4 @@ author_profile: true
 * Contributing to 4 additional manuscripts that have been previously accepted or are under consideration as posters or presentations at ISHLT and STSA conferences. 
   * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
   * Outcomes and Utilization of Extended Criteria Donors in Lung Transplant after Modification of the LAS
-  * Adverse Long-Term Survival and Primary Graft Dysfunction in Medicare and Medicaid Patients undergoing Heart Transplant
-  * The Risk of Chronic Lung Allograft Dysfunction in Patients with Diabetes Mellitus undergoing Lung Transplantation
 
