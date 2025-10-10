@@ -16,6 +16,7 @@ author_profile: true
   
 ## Posters / Presentations
 
+* Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Accepted as a poster presentation to 2026 STS Annual Meeting.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Optimization of Preoperative Amiodarone Therapy for Survival and Primary Graft Dysfunction in Patients undergoing Heart Transplantation. [Oral Presentation](https://brianjbao.github.io/files/PRESENTATION_25_Kwon_Hashmi_Amio_HTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization, Experience, and Outcomes of COVID-19 Positive Donors for Heart Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_COVID_HTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Utilization and Outcomes of Hypoxemic Donors in Combined Heart-Lung Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_Hypoxemic_HLTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
@@ -34,7 +35,7 @@ author_profile: true
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Predictors of [redacted] in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion. Manuscript draft complete, awaiting attending feedback.
 * Semelsberger S, Chaudry K, **Bao BJ**, ... Carmouche J. Preoperative [redacted] and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Manuscript draft complete, awaiting co-author feedback before attending review.
-* Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Submitted as abstract to 2026 STS Annual Meeting; manuscript in progress.
+* Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Manuscript in progress.
 * Contributing to 2 additional manuscripts that have been previously accepted as posters at ISHLT
   * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
   * Outcomes and Utilization of Extended Criteria Donors in Lung Transplant after Modification of the LAS
