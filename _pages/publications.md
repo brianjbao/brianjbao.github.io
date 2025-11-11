@@ -17,7 +17,9 @@ author_profile: true
 ## Posters / Presentations
 
 * Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Accepted as a poster presentation to 2026 STS Annual Meeting.
+* 
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Optimization of Preoperative Amiodarone Therapy for Survival and Primary Graft Dysfunction in Patients undergoing Heart Transplantation. [Oral Presentation](https://brianjbao.github.io/files/PRESENTATION_25_Kwon_Hashmi_Amio_HTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
+* Semelsberger SD, Chaundry K, **Bao B**, Menon TP,  Goheer HE, Carmouche JJ. Preoperative Benzodiazepine Use and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Poster at Virginia Society of Addiction Medicine; 2025 November 8; Roanoke, VA. (Poster presented by Kishu Chaundry) 
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization, Experience, and Outcomes of COVID-19 Positive Donors for Heart Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_COVID_HTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Utilization and Outcomes of Hypoxemic Donors in Combined Heart-Lung Transplantation. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_Hypoxemic_HLTx.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Impact of Functional Warm Ischemia Time on Donation After Circulatory Death Heart Transplant. [Poster](https://brianjbao.github.io/files/POSTER_25_Kwon_Hashmi_DCD_FWIT.pdf) at International Society for Heart and Lung Transplantation 45th Annual Meeting; 2025; Boston, MA.
