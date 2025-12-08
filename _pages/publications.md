@@ -36,6 +36,7 @@ author_profile: true
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Predictors of [redacted] in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion. Manuscript in review at *Clinical Spine Surgery*
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript draft complete, awaiting co-author and attending feedback.
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
+* Goheer H, ..., **Bao BJ**, ..., Carmouche J. Impact of [redacted] in Posterior Cervical Fusion. Data analysis in progress.
 * Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Manuscript in progress.
 * Contributing to 2 additional manuscripts that have been previously accepted as posters at ISHLT
   * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
