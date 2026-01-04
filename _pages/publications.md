@@ -40,7 +40,4 @@ author_profile: true
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Comparison of [redacted] vs. [redacted] Posterior Cervical Fusions. Data analysis in progress.
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Trends in [redacted] Spine Literature. Data analysis in progress.
 * Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Manuscript in progress.
-* Contributing to 2 additional manuscripts that have been previously accepted as posters at ISHLT
-  * The Utilization and Outcomes of Hypoxemic Donors in Heart-Lung Transplantation
-  * Outcomes and Utilization of Extended Criteria Donors in Lung Transplant after Modification of the LAS
 
