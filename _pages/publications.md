@@ -8,7 +8,7 @@ author_profile: true
 ## Publications / Published Abstracts
 
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Evolving Long-Term Outcomes of Heart Transplantation Using COVID-19 Positive Donors. *Clinical Transplantation*. doi:[https://doi.org/10.1111/ctr.70439](https://doi.org/10.1111/ctr.70439)
-* Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Risk Factors and Outcomes of Reintubation following Combined Heart-Lung Transplantation. *Clinical Transplantation*. [https://doi.org/10.1111/ctr.70437](https://doi.org/10.1111/ctr.70437)
+* Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Risk Factors and Outcomes of Reintubation following Combined Heart-Lung Transplantation. *Clinical Transplantation*. doi:[https://doi.org/10.1111/ctr.70437](https://doi.org/10.1111/ctr.70437)
 * **Bao BJ**, Kwon YIC, ..., Hashmi ZA. National Trends and Outcomes of Combined Lung–Liver Transplantation: An Analysis of the UNOS Registry. *Lung*. doi:[10.1007/s00408-025-00811-9](https://doi.org/10.1007/s00408-025-00811-9)
 * Kwon YIC, **Bao BJ**, ..., Hashmi Z. The Impact of Preoperative Amiodarone on Heart Transplant Survival and Graft Dysfunction. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.180](https://doi.org/10.1016/j.healun.2025.02.180)
 * Kwon YIC, **Bao BJ**, ..., Hashmi Z. Long-Term Utilization and Outcomes of COVID-19 Positive Donors for Heart Transplantation. *J Heart Lung Transplant*. 2025; doi:[10.1016/j.healun.2025.02.1023](https://doi.org/10.1016/j.healun.2025.02.1023)
