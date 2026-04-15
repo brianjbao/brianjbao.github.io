@@ -31,13 +31,11 @@ author_profile: true
 
 ## Projects Under Review / In Progress
 
-* Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Optimization of Pretransplant Amiodarone Therapy for Primary Graft Dysfunction following Heart Transplantation. Manuscript accepted at *Journal of Heart and Lung Transplantation*, awaiting publication
 * Semelsberger S, Chaudry K, **Bao BJ**, ... Carmouche J. Preoperative [redacted] and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Manuscript in review at *Clinical Spine Surgery*
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Predictors of [redacted] in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion. Manuscript in review at *Clinical Spine Surgery*
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. The Impact of Functional Warm Ischemia Time on Long-Term Outcomes of Donation After Circulatory Death Heart Transplant. Manuscript draft complete, awaiting co-author and attending feedback.
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Impact of [redacted] in Posterior Cervical Fusion. Data analysis in progress.
 * Goheer H, ..., **Bao BJ**, ..., Carmouche J. Racial and Ethnic Disparities in Pediatric Spine Surgery using [redacted]. Data analysis in progress.
-* Goheer H, ..., **Bao BJ**, ..., Carmouche J. Trends in [redacted] Spine Literature. Data analysis in progress.
 * Kwon YIC, Son A, **Bao BJ**, ..., Hashmi ZA. Long-Term Utilization and Outcomes of Asphyxiated Donor Lungs in Lung Transplantation. Manuscript in progress.
 
