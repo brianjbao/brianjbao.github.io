@@ -34,6 +34,6 @@ author_profile: true
 
 * Semelsberger S, Chaudry K, **Bao BJ**, ... Carmouche J. Preoperative [redacted] and Clinical Outcomes in Anterior Cervical Discectomy and Fusion: A Propensity-Matched Study. Manuscript in review at *Clinical Spine Surgery*
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
-* Goheer H, ..., **Bao BJ**, ..., Carmouche J. Impact of [redacted] in Posterior Cervical Fusion. Data analysis in progress.
-* Goheer H, ..., **Bao BJ**, ..., Carmouche J. Racial and Ethnic Disparities in Pediatric Spine Surgery using [redacted]. Data analysis in progress.
+* Zaronias C, ..., **Bao BJ**, ..., Carmouche J. Utilization and Outcomes of [redacted] in Posterior Cervical Fusion: A National Propensity-Matched Analysis. Manuscript in review at *Journal of Plastic, Reconstructive & Aesthetic Surgery*
+* Thiru S, ..., **Bao BJ**, ..., Carmouche J. Racial and Ethnic Disparities in [redacted] After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis. Manuscript in review at *Spine Deformity*
 
