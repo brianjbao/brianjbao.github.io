@@ -80,6 +80,7 @@ redirect_from:
 
 ## Honors and Awards
 
+* 2026: **Carilion Clinic Health Focus Scholarship** (*3030*)
 * 2024: **Albert & Phyllis Cornell Pre-Medical Award** (*$2650*)
   * Distinction awarded to two graduating senior premedical students who show great promise to become outstanding physicians. The recipients are chosen based on a superlative undergraduate academic record and for having shown a significant commitment to serving others.
 * 2023: **Invited to join Phi Beta Kappa**, Alpha Chapter of Virginia
