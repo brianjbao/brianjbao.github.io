@@ -50,9 +50,10 @@ redirect_from:
   * Mentor: Uri Levine, PhD
 
 
-## Community Service
+## Community Service / Volunteering
 
 * May 2025-Present: **Student Mentor**, [UVA Guide to Application Success](https://med.virginia.edu/mulholland/student-clubs/)
+* Aug 2025-Present: **Peer Mentor ("Big Sib")**, [UVA Aid To Medical Students](https://med.virginia.edu/mulholland/officers/aid-to-medical-students/)
 * Mar 2025-Present: **Student Volunteer**, [Remote Area Medical](https://www.ramusa.org)
 * Aug 2024-Present: **Student Volunteer**, [Legal Aid Justice Center](https://www.justice4all.org)
 * Aug 2024-Present: **Pre-Med Mentor**, [Mulholland Pre-Med Mentoring Program](https://med.virginia.edu/mulholland/student-clubs/)
