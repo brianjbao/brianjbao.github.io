@@ -36,5 +36,6 @@ author_profile: true
 * Zaronias C, ..., **Bao BJ**, ..., Carmouche J. Utilization and Outcomes of [redacted] in Posterior Cervical Fusion: A National Propensity-Matched Analysis. Manuscript in review at *Journal of Plastic, Reconstructive & Aesthetic Surgery*
 * Thiru S, ..., **Bao BJ**, ..., Carmouche J. Racial and Ethnic Disparities in [redacted] After Posterior Spinal Fusion for Adolescent Idiopathic Scoliosis. Manuscript in review at *Spine Deformity*
 * **Bao BJ**, Middleton JP, Greenwell AG. Multidisciplinary Serial Endoscopic Cauterization of a Large Pediatric Button Battery-Induced Tracheoesophageal Fistula: A Case Report. Case report draft complete, awaiting attending feedback.
+* **Bao BJ**, Goheer HE, ..., Carmouche JJ. Evaluating 30-Day Postoperative Outcomes in Posterior Spinal Fusion with [redacted] for Adolescent Idiopathic Scoliosis: A Retrospective Cohort Analysis of 30,094 Patients. Manuscript in progress.
 * Patel S, ..., **Bao BJ**, ..., Daniero J. Multi-center Safety Analysis of Hyaluronic Acid‐Based Vocal Fold Injection Augmentation. Data analysis in progress.
 
