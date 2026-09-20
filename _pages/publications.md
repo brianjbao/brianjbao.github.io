@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications / Published Abstracts
 
-* Goheer HE, **Bao BJ**, ..., Carmouche JJ. Predictors of Non-Home Discharge in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion Procedures. *Clinical Spine Surgery*. 2026; [Accepted- In Press]
+* Goheer HE, **Bao BJ**, ..., Carmouche JJ. Predictors of Non-Home Discharge in Elderly Patients Undergoing Multilevel Anterior Cervical Discectomy and Fusion Procedures. *Clinical Spine Surgery*. 2026; doi:[https://doi.org/10.1097/BSD.0000000000002160]
 * Kwon YIC, **Bao BJ**, ..., Hashmi ZA. Evolving Long-Term Outcomes of Heart Transplantation Using COVID-19 Positive Donors. *Clinical Transplantation*. 2026; doi:[https://doi.org/10.1111/ctr.70439](https://doi.org/10.1111/ctr.70439)
 * Kwon YIC, Keller M, Lai A, **Bao BJ**, ..., Hashmi ZA. Risk Factors and Outcomes of Reintubation following Combined Heart-Lung Transplantation. *Clinical Transplantation*. 2026; doi:[https://doi.org/10.1111/ctr.70437](https://doi.org/10.1111/ctr.70437)
 * **Bao BJ**, Kwon YIC, ..., Hashmi ZA. National Trends and Outcomes of Combined Lung–Liver Transplantation: An Analysis of the UNOS Registry. *Lung*. doi:[10.1007/s00408-025-00811-9](https://doi.org/10.1007/s00408-025-00811-9)
